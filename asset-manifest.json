@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pracEx/static/css/main.6fee96ec.css",
-    "main.js": "/pracEx/static/js/main.70cb788f.js",
+    "main.js": "/pracEx/static/js/main.8b5e793f.js",
     "index.html": "/pracEx/index.html",
     "main.6fee96ec.css.map": "/pracEx/static/css/main.6fee96ec.css.map",
-    "main.70cb788f.js.map": "/pracEx/static/js/main.70cb788f.js.map"
+    "main.8b5e793f.js.map": "/pracEx/static/js/main.8b5e793f.js.map"
   },
   "entrypoints": [
     "static/css/main.6fee96ec.css",
-    "static/js/main.70cb788f.js"
+    "static/js/main.8b5e793f.js"
   ]
 }
